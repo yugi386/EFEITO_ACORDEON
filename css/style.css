@@ -8,13 +8,25 @@ body {
 	width: 900px;
 	height: auto;
 	margin: auto;
+	font-family: verdana;
+	font-size: 14px;
+}
+
+h2 {
+	display:block;
+	color: blue;
+	background-color: #BFEFFF;
+	text-align: center;
 }
 
 #content{
-	width: 900px;
+	width: 880px;
 	height: auto;
 	margin: auto;
 	background-color: #FFFFFF;
+	text-align: justify;
+	padding: 10px;
+	line-height: 30px;
 }
 
 #header{
@@ -31,4 +43,5 @@ body {
 	padding-bottom: 5px;
 	background-color: #BEBEBE;
 	text-align: center;	
+	margin-bottom: 10px;
 }
